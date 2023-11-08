@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: dfAlchemy
+Version: 0.0.1
+Summary: a basic module to generate dataframes & series
+Home-page: UNKNOWN
+Author: Bhavya Soni (Gaming Tech)
+Author-email: rkumarbhavy@gmail.com
+License: UNKNOWN
+Keywords: python,video,stream,video stream,camera stream,sockets
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+
+a basic module to generate dataframes & series for my school
+

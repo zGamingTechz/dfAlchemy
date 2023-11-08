@@ -1,0 +1,7 @@
+setup.py
+dfAlchemy/__init__.py
+dfAlchemy/dataframes.py
+dfAlchemy.egg-info/PKG-INFO
+dfAlchemy.egg-info/SOURCES.txt
+dfAlchemy.egg-info/dependency_links.txt
+dfAlchemy.egg-info/top_level.txt
